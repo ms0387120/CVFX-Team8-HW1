@@ -17,7 +17,7 @@
 
 
 ---
-## Inference cycleGAN in personal image
+## Inference CycleGAN in personal image
 
 
 
