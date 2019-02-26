@@ -1,7 +1,3 @@
-# HW1-CycleGAN
-
-###### tags: `Course` `CVFX`
-
 # Team 8 - Homework 1
 
 * Teammates
