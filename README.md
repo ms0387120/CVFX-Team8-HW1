@@ -17,7 +17,7 @@
 ## Inference CycleGAN in personal image
 
 
-
+![image](https://github.com/ms0387120/CVFX-Team8-HW1/blob/master/IMG_0109.JPG)
 ---
 ## Compare with other method
 
