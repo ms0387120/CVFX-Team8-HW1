@@ -1,14 +1,15 @@
-# Team 8 - Homework 1
+# Team 8 - HW1 - CycleGAN
 
 * Teammates
 
 | 學號 | 姓名 |
 | :--------: | :--------: | 
 | 104070015     | 王妤㚬     | 
-| 104011     | 陳泓仁     | 
+| 104011251     | 陳泓仁     | 
 | 107065501     | 蘇玫如     | 
 
-## Training cycleGAN
+---
+## Training CycleGAN
 
 
 
@@ -19,6 +20,7 @@
 
 ---
 ## Compare with other method
+
 
 
 ---
