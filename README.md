@@ -42,7 +42,35 @@
 
 ---
 ## Compare with other method
+* Reference: [Super fast color transfer between images](https://github.com/cvfx-2019/homework1-color-transfer)
+* The `color_transfer` package is an OpenCV and Python implementation based (loosely) on [Color Transfer between Images](http://www.thegooch.org/Publications/PDFs/ColorTransfer.pdf) [Reinhard et al., 2001]
+* The algorithm itself is extremely efficient (much faster than histogram based methods), requiring only the mean and standard deviation of pixel intensities for each channel in the `L*a*b` color space.
+* Requirement Package
 
+    - OpenCV
+    - NumPy
+
+* 冬天原圖
+
+![](https://i.imgur.com/BqacPFz.jpg)
+
+* 以下圖片為 **Color Transfer_Summer2Winter**的結果
+
+1. **TSMC Building Grassland in NTHU**
+
+![](https://i.imgur.com/8tgBn8z.png)
+
+2. **Baseball Field in NTHU**
+
+![](https://i.imgur.com/UKd6DLN.jpg)
+
+3. **Other landscapes downloaded from online**
+
+![](https://i.imgur.com/0y28QAu.png)
+
+![](https://i.imgur.com/oou1vhO.jpg)
+
+![](https://i.imgur.com/YQhFZDD.jpg)
 
 
 ---
