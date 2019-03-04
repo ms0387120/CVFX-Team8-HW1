@@ -10,7 +10,7 @@
 
 ---
 ## Training CycleGAN
-* 我們訓練一個 ==**summer2winter**== 的 CycleGAN
+* 我們訓練一個 **summer2winter** 的 CycleGAN
 * epochs = 200
 
 ![](https://i.imgur.com/KbbaVP3.jpg)
