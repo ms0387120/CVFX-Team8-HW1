@@ -47,7 +47,7 @@
 
 ---
 ## Other Color Transfer Method
-* Reference: [Super fast color transfer between images](https://github.com/cvfx-2019/homework1-color-transfer)
+* Reference: [Super fast color transfer between images](https://github.com/jrosebr1/color_transfer)
 * The `color_transfer` package is an OpenCV and Python implementation based (loosely) on [Color Transfer between Images](http://www.thegooch.org/Publications/PDFs/ColorTransfer.pdf) [Reinhard et al., 2001]
 * The algorithm itself is extremely efficient (much faster than histogram based methods), requiring only the mean and standard deviation of pixel intensities for each channel in the `L*a*b` color space.
 * Requirement Package
