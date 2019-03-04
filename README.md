@@ -10,9 +10,9 @@
 
 ---
 ## Training CycleGAN
+>epochs = 200 <br/>
 
-
-
+![image](https://github.com/ms0387120/CVFX-Team8-HW1/blob/master/recording.jpg)
 ---
 ## Inference CycleGAN in personal image
 
