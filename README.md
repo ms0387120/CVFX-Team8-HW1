@@ -13,7 +13,7 @@
 * 我們訓練一個 ==**summer2winter**== 的 CycleGAN
 * epochs = 200
 
-![image](https://github.com/ms0387120/CVFX-Team8-HW1/blob/master/recording.jpg)
+![](https://i.imgur.com/KbbaVP3.jpg)
 
 
 ---
@@ -40,12 +40,6 @@
 ![](https://i.imgur.com/1YC2X6f.png)
 
 
-
-![image](https://github.com/ms0387120/CVFX-Team8-HW1/blob/master/summertowinter1.png)
->Baseball field in National Tsing Hua University.<br/>
-
-![image](https://github.com/ms0387120/CVFX-Team8-HW1/blob/master/summertowinter2.png)<br/>
->TSMC Building Grassland.
 ---
 ## Compare with other method
 
